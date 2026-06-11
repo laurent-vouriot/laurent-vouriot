@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Laurent Vouriot</h1>
 
 <p align="center">
-  <em>PhD Fellow in Machine Learning applied to Public Health</em>
+  <em>PhD Fellow in Deep Learning applied to Public Health</em>
 </p>
 
 <p align="center">
